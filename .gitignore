@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+# Build directory
+build/*
+
+# Temp files
+*~
+
+#vscode
+.vs*
+
 # Compiled Object files
 *.slo
 *.lo
